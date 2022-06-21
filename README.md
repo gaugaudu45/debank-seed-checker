@@ -9,7 +9,7 @@ Number of threads - Set to 1-10 for stable work.
 List of seeds - list of seeds to check. Works with 12 and 24 word seeds.
 
 ### Compilation
-There is compilation error with NBitcoin lib. Use x86 compilation for stable work.
+There is compilation error with NBitcoin lib. **Use release x86 compilation for stable work**.
 
 ### Todo
 These things will be added later:
