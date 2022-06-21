@@ -1,4 +1,3 @@
-Ethereum seed balance checker using DeBank API (multinetwork, multithread)
 ![alt text](https://github.com/gaugaudu45/debank-seed-checker/blob/main/Untitled.png?raw=true)
 
 ### About
